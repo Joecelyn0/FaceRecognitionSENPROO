@@ -1,3 +1,3 @@
-theme: architect
+theme: jekyll-theme-architect
 title: Identiface
 description: Identiface adalah sistem absensi online berbasis web yang menggunakan teknologi pengenalan wajah dan pengecekan lokasi untuk memastikan kehadiran dilakukan secara jujur dan akurat. Pengguna harus berada di lokasi yang sudah ditentukan serta melakukan verifikasi wajah melalui kamera sebelum absensi berhasil dicatat. Data kehadiran kemudian dikirim melalui internet dan disimpan secara aman di sistem cloud sehingga dapat diakses dan dikelola dengan mudah oleh admin. Dengan menggabungkan teknologi kecerdasan buatan, jaringan komputer, dan komputasi awan, Identiface menjadi solusi absensi digital yang praktis, modern, dan lebih aman dibandingkan metode absensi konvensional.
